@@ -44,9 +44,25 @@ The hex codes were applied consistently across charts and slicers to maintain br
 
 ---
 
-## 🖼️ Screenshot Placeholder
+## 📸 Screenshots
 
+### Clean Data View  
+![Cleaned Airbnb dataset showing structured columns and mock data](images/Clean_Data_View.png)
 
+### Pivot Tables  
+![Pivot tables sheet summarizing listing counts, prices, and review metrics by borough and room type](images/Pivot_Tables.png)
+
+### Charts 1  
+![Dashboard charts including Room Availability, Average Price, and Sum of Reviews](images/Charts_1.png)
+
+### Charts 2  
+![Additional dashboard charts showing Review Count by Stay Length and Listing Type Distribution](images/Charts_2.png)
+
+### Dashboard  
+![Full dashboard layout with interactive slicers and borough-level visualizations](images/Dashboard.png)
+
+### Dashboard Instructions  
+![Dashboard instructions sheet detailing slicer logic, chart interactivity, and report connections](images/Dashboard_Instructions.png)
 
 ---
 
@@ -67,16 +83,26 @@ Each chart is designed to be intuitive and responsive, with slicers and report c
 
 ## 📁 Project Files
 
-- Cleaned Airbnb Dataset (mock data)
-- Pivot Tables and Charts Sheet
-- Interactive Dashboard Sheet
-- Dashboard Instructions Sheet
+- `Airbnb_Business_Analysis_Dashboard.xlsx`  
+  Contains all sheets: Cleaned Data, Pivot Tables, Charts, Interactive Dashboard, and Dashboard Instructions.
+
+- `/screenshots` folder  
+  Includes six labeled images for README documentation:
+  - Clean_Data_View.png
+  - Pivot_Tables.png
+  - Charts_1.png
+  - Charts_2.png
+  - Dashboard.png
+  - Dashboard_Instructions.png
+
+- `Airbnb_Dashboard_Overview.pdf`  
+  Optional downloadable version of the dashboard for offline viewing and stakeholder sharing.
 
 ---
 
 ## 🚫 Note
 
-This README focuses on technical documentation and dashboard usage. Personal analysis and insights were submitted separately as part of the essay assignment.
+This README focuses on technical documentation and dashboard usage. Personal analysis and insights were submitted separately as part of an essay assignment.
 
 ---
 
