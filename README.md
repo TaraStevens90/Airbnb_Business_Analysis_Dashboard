@@ -47,22 +47,22 @@ The hex codes were applied consistently across charts and slicers to maintain br
 ## 📸 Screenshots
 
 ### Clean Data View  
-![Cleaned Airbnb dataset showing structured columns and mock data](images/Clean_Data_View.png)
+![Cleaned Airbnb dataset showing structured columns and mock data](screenshots/Clean_Data_View.png)
 
 ### Pivot Tables  
-![Pivot tables sheet summarizing listing counts, prices, and review metrics by borough and room type](images/Pivot_Tables.png)
+![Pivot tables sheet summarizing listing counts, prices, and review metrics by borough and room type](screenshots/Pivot_Tables.png)
 
 ### Charts 1  
-![Dashboard charts including Room Availability, Average Price, and Sum of Reviews](images/Charts_1.png)
+![Dashboard charts including Room Availability, Average Price, and Sum of Reviews](screenshots/Charts_1.png)
 
 ### Charts 2  
-![Additional dashboard charts showing Review Count by Stay Length and Listing Type Distribution](images/Charts_2.png)
+![Additional dashboard charts showing Review Count by Stay Length and Listing Type Distribution](screenshots/Charts_2.png)
 
 ### Dashboard  
-![Full dashboard layout with interactive slicers and borough-level visualizations](images/Dashboard.png)
+![Full dashboard layout with interactive slicers and borough-level visualizations](screenshots/Dashboard.png)
 
 ### Dashboard Instructions  
-![Dashboard instructions sheet detailing slicer logic, chart interactivity, and report connections](images/Dashboard_Instructions.png)
+![Dashboard instructions sheet detailing slicer logic, chart interactivity, and report connections](screenshots/Dashboard_Instructions.png)
 
 ---
 
